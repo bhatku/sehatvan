@@ -73,7 +73,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:860px;
+  width:1100px;
   margin:0 auto;
 }
 
@@ -124,7 +124,7 @@ img {
 }
 
 header {
-    width:270px;
+    width:280px;
     background-color: #fff;
     padding: 1.5em 1.25em .2em;
   float:left;
@@ -194,7 +194,7 @@ header ul a strong {
 section {
   background-color: #fff;
   padding: 10px 20px;
-  width:500px;
+  width:700px;
   float:right;
     margin-bottom:30px;
 }
@@ -213,7 +213,7 @@ hr {
 footer {
 background-color:#fff ;
 padding: .5em 1.25em 1em;
-  width:270px;
+  width:280px;
   float:left;
   position:fixed;
   bottom:2em;
