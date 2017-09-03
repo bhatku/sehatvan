@@ -3,7 +3,7 @@ body {
 
   background: url('../images/texture.png');
     padding:2.5em;
-  font: 14px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 16px/1.5 'Catamaran', sans-serif;
   color:#727272;
   font-weight:400;
 }
@@ -28,29 +28,29 @@ h1, h2, h3 {
 
 h1 {
   font-size:3.5em;
-  font-family: 'Patrick Hand', cursive;
+  font-family: 'Catamaran', sans-serif;
 }
 
 h2 {
   color:#8B4513;
-  font-family: 'Patrick Hand', cursive;
+  font-family: 'Catamaran', sans-serif;
   font-size:2em;
   margin:0 0 15px;
 }
 h3 {
   color:#393939;
-  font-family: 'Patrick Hand', cursive;
+  font-family: 'Righteous', cursive;
   font-size:1.5em;
 }
 h4 {
   color:#494949;
   font-size: 1.5em;
-  font-family: 'Patrick Hand', cursive;
+  font-family: 'Catamaran', sans-serif;
 }
 h5, h6 {
   color:#8B4513;
   font-size: 1.5em;
-  font-family: 'Patrick Hand', cursive;
+  font-family: 'Catamaran', sans-serif;
   margin:0 0 5px;
 }
 
@@ -199,9 +199,11 @@ section {
   padding: 10px 20px;
   width:700px;
   float:right;
-    margin-bottom:30px;
+    margin-bottom:20px;
 }
-
+.floating {
+  margin-bottom: 5px
+}
 small {
   font-size:11px;
 }
@@ -219,7 +221,7 @@ padding: .5em 1.25em 1em;
   width:280px;
   float:left;
   position:fixed;
-  bottom:7em;
+  bottom:5em;
   color: #8B4513;
 
   -webkit-font-smoothing:subpixel-antialiased;
